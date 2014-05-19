@@ -40,5 +40,5 @@ sudo ./bloom.py
 9. （携帯）6，7の繰り返しできるヨ
 
 ## 参考動画
-[参考動画はコチラ](https://www.dropbox.com/s/ibaq5wqgh4fr1nd/MOV_0158.mp4)
+[参考動画はコチラ](https://www.dropbox.com/s/yk51vr9xdgg6pz9/MOV_0159.mp4)
 
