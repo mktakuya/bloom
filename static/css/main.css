@@ -1,0 +1,20 @@
+@charset utf-8;
+
+body {
+  margin: auto;
+}
+
+button {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  //color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  //color: white;
+}
